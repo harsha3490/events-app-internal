@@ -22,7 +22,8 @@ const mockEvents = {
         { title: 'another event', id: 2, description: 'something even cooler',  location: 'Boston' },
         { title: 'Summer', id: 1, description: 'It is really hot', location: 'Florida'  },
         { title: 'Winter', id: 2, description: 'It is really cool' },
-        { title: 'Spring', id: 2, description: 'It is really awesome' }
+        { title: 'Spring', id: 2, description: 'It is really awesome' },
+        { title: 'Rainy', id: 2, description: 'It is rainy' }
     ]
 };
 
